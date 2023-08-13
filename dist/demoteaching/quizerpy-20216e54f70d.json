@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "quizerpy",
-  "private_key_id": "20216e54f70df401dec8470d422c38450dce50f5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC3ASzOvZ3QYcC\n1pBssB4Rg1qFvC/XB4t04CTkmljsgq92PPuPEjPU8c0wze7b5aNOYzt63v37r4GO\n/p/pNa2nOOLH39YyaEecl2Wqh3BtuLKAQrGTIkbPAQZk74PF+s0aXvVVDLn0QrFS\ndRJ3XQ+Vwzv3K3Niaa/WNs3331wKPNROy1LCJ0pIe7XZf59LFj0WDDQ+E69mOoxV\nIR6u58rbS+iO4I6jljO8QFKR4Mi+j/bBrhAxxiYZJcQ11XdZ3TezmORiqa4dn+Vj\n6F2i5XWOZXq9gCejADsHh/t03VkKl1RtO5W9GKs5lYVqwftwpswWi3e0eRUEBJ1J\naJuuZsKlAgMBAAECggEAEL5FhB4GpAAkKPUFU2V9q+0Qt+mP5cbe74O7/82YYvgm\nuf7q8aPzgrJlOnKTed8dPWTO7VOgWMI/nGkaFfiYC4SajeiYl9u4fYbPxEufeDoU\n0msIpZceJPbWVRF0jewrN/8dTvnJN6kMYgSvucRsDKcKLcaUw0nIA1zRrWEKoFFr\nz83ZdxutQeI4jeuDHkQTlDqHyGVOWI+gLBNJ4kNrKmq0jY393+RUVIkiHwH79FNZ\nCRoeAi3UgDPVxFg4ecSpPSOmTxunbMp/dM9hfCEAbzFIROLvM8Te5yciwZni5opl\nfcxROwPP09U1LhE4vXSzrnFvmlrNtpyGE/aMfdzQEQKBgQDrkhE8feLwiloBZ+ys\nCEx+PRTUkl4Vv66dvR0Iwn1ULPOWWZq2u0yhspgIiB6tZtxSHe5hWl850sWglZqi\n4d5qz+1lCgWqCVMdVX3Yg/WUICYKtII6OKFvzVH5h+WeC22FJOQjSAI5i5NArIwT\nJ42QvwteyWdoSj7644OwX3j9VQKBgQDTwh42i63b/vWfTE3/AtySv4yBtnTu0NCc\nxFeB+DjNFh1cL63cRuGxutpkGnXQdHQEFiHN/b54zbJMmbfX6bKKNSyqK3dFFD8h\nzeRl1/CGiOOkoBf70Ti5Yg4wK8mq3I3mr5pIxCoaAJvyj3tHEv3higZFrwf9DvRT\nPYfi2GYwEQKBgD3dR0+Gk+Gtw8NYwovPRh9k9SJ6KeE2TKo6LvTM9tLzVykl8P6K\nI67XUxvye3P4bmXWXHMOo7Fwy9vHTiv2e027u1Fsl143Qq+ScxE4Xnb/Fl57VzPp\nCWRuHFgWu1ONFr7/mDY3w/XO1OYIKmUhXwkjUt4asGBwFygWNdBM0l5dAoGBALMk\nrtCwXDYYPI02TWmmbxoKyIBX7ha3OzTUeb9vUgZWZiI+B9SpdngYPnefVvox+pAW\ndSTCPKgQRH2/MaOMhkmb8JxJx03+ceZUO5vZEheOqR71fTTA7D8Q8DXaZXKRwc5d\n0qUqpv92cnfC4KThMTzjuqirCZQRWasuC85iChkxAoGABgVoHfcXlc4FnNQzgwmT\n1SPqauybFqVq9vxe1IHuYxBmxQX5P0iNnocQ0MPCMqzzYR6WcZUA9ff8d1gzoITd\nVT3+8XC1xg56AOjHoMrGUe9fhiAWnHT6BV7WljNZrhHbDQJjxKYpCSRjX89i3Vqs\nruXwusXxcgkZRoaXcuqChfg=\n-----END PRIVATE KEY-----\n",
-  "client_email": "edgardo@quizerpy.iam.gserviceaccount.com",
-  "client_id": "102395012986022863857",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edgardo%40quizerpy.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "S\Zf59LFj0WDDQ+E69mOoxV\nIR6u58rbS+iO4I6jljO8QFKR4Mi+j/bBrhAxxiYZJcQ11XdZ3TezmORiqa4dn+Vj\n6F2i5XWOZXq9gCejADsHh/t03VkKl1RtO5W9GKs5lYVqwftwpswWi3e0eRUEBJ1J\naJuuZsKlAgMBAAECggEAEL5FhB4GpAAkKPUFU2V9q+0Qt+mP5cbe74O7/82YYvgm\nuf7q8aPzgrJlOnKTed8dPWTO7VOgWMI/nGkaFfiYC4SajeiYl9u4fYbPxEufeDoU\n0msIpZceJPbWVRF0jewrN/8dTvnJN6kMYgSvucRsDKcKLcaUw0nIA1zRrWEKoFFr\nz83ZdxutQeI4jeuDHkQTlDqHyGVOWI+gLBNJ4kNrKmq0jY393+RUVIkiHwH79FNZ\nCRoeAi3UgDPVxFg4ecSpPSOmTxunbMp/dM9hfCEAbzFIROLvM8Te5yciwZni5opl\nfcxROwPP09U1LhE4vXSzrnFvmlrNtpyGE/aMfdzQEQKBgQDrkhE8feLwiloBZ+ys\nCEx+PRTUkl4Vv66dvR0Iwn1ULPOWWZq2u0yhspgIiB6tZtxSHe5hWl850sWglZqi\n4d5qz+1lCgWqCVMdVX3Yg/WUICYKtII6OKFvzVH5h+WeC22FJOQjSAI5i5NArIwT\nJ42QvwteyWdoSj7644OwX3j9VQKBgQDTwh42i63b/vWfTE3/AtySv4yBtnTu0NCc\nxFeB+DjNFh1cL63cRuGxutpkGnXQdHQEFiHN/b54zbJMmbfX6bKKNSyqK3dFFD8h\nzeRl1/CGiOOkoBf70Ti5Yg4wK8mq3I3mr5pIxCoaAJvyj3tHEv3higZFrwf9DvRT\nPYfi2GYwEQKBgD3dR0+Gk+Gtw8NYwovPRh9k9SJ6KeE2TKo6LvTM9tLzVykl8P6K\nI67XUxvye3P4bmXWXHMOo7Fwy9vHTiv2e027u1Fsl143Qq+ScxE4Xnb/Fl57VzPp\nCWRuHFgWu1ONFr7/mDY3w/XO1OYIKmUhXwkjUt4asGBwFygWNdBM0l5dAoGBALMk\nrtCwXDYYPI02TWmmbxoKyIBX7ha3OzTUeb9vUgZWZiI+B9SpdngYPnefVvox+pAW\ndSTCPKgQRH2/MaOMhkmb8JxJx03+ceZUO5vZEheOqR71fTTA7D8Q8DXaZXKRwc5d\n0qUqpv92cnfC4KThMTzjuqirCZQRWasuC85iChkxAoGABgVoHfcXlc4FnNQzgwmT\n1SPqauybFqVq9vxe1IHuYxBmxQX5P0iNnocQ0MPCMqzzYR6WcZUA9ff8d1gzoITd\nVT3+8XC1xg56AOjHoMrGUe9fhiAWnHT6BV7WljNZrhHbDQJjxKYpCSRjX89i3Vqs\nruXwusXxcgkZRoaXcuqChfg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
