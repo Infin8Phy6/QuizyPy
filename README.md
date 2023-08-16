@@ -1,4 +1,6 @@
 # QuizyPy
+download the whole folder from here https://drive.google.com/file/d/1JjLjiZIqBcYBQrj7O2W34Wciyy83VftT/view?usp=sharing
+install it and it shall run
 This is a quiz tool that will help students and teachers to improve.
 The provided code is a Python script that creates a graphical user interface (GUI) for a quiz application using the Tkinter library and interacts with Google Sheets to fetch questions, allow users to answer them, and save the results.The script begins by importing necessary libraries to support its functionalities. The gspread library facilitates interaction with Google Sheets, while ServiceAccountCredentials enables authentication using a JSON key file. 
 The random library is used for shuffling questions randomly, tkinter provides GUI components, messagebox is utilized for displaying messages, and re assists in working with regular expressions. After the library imports, the script configures access to Google Sheets. It defines the scope of access using URLs for feeds and Google Drive. It uses the ServiceAccountCredentials class to create credentials based on a provided JSON key file named ".json". These credentials are then used to authorize the client to access Google Sheets. 
